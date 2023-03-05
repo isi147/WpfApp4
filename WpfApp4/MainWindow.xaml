@@ -51,7 +51,7 @@
                     <StackPanel>
                         <Label>Hakuna</Label>
                         <Label>Halyuyaya</Label>
-                        <Label>Hakito</Label>
+                        
                     </StackPanel>
                 </GroupBox>
             </TabItem>
